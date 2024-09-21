@@ -2,7 +2,7 @@
 
 
 
-This is a simple web-based random password generator created using HTML, CSS, and JavaScript. You can access the live demo [here](https://shindesuyash-password-generator.netlify.app/).
+This is a simple web-based random password generator created using HTML, CSS, and JavaScript. You can access the live demo [here](https://Laukik1110-password-generator.netlify.app/).
 
 ## Table of Contents
 - [Features](#features)
@@ -20,7 +20,7 @@ This is a simple web-based random password generator created using HTML, CSS, an
 
 ## Usage
 
-1. Visit the [live demo](https://shindesuyash-password-generator.netlify.app/).
+1. Visit the [live demo](https://Laukik1110-password-generator.netlify.app/).
 2. Configure your password preferences:
    - Set the desired password length.
    - Choose the character types to include in the password.
@@ -32,7 +32,7 @@ This is a simple web-based random password generator created using HTML, CSS, an
 
 If you'd like to contribute to this project, follow these steps:
 
-1. Fork the repository: [https://github.com/shindesuyash/password-generator](https://github.com/shindesuyash/password-generator).
+1. Fork the repository: [https://github.com/Laukik1110/password-generator](https://github.com/Laukik1110/password-generator).
 2. Clone your forked repository locally.
    ```bash
    git clone https://github.com/your-username/password-generator.git
